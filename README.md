@@ -1,11 +1,12 @@
 # IQ_scanner
-An app that scans code
-This App can scan Any single word you can think of in the globe
+AN APP THAT CAN SCAN ANY SINGLE WORD YOU CAN THINK OF...
+AMAZING IQ SCANNER
+ -CHECK IT OUT
 # How it works
-click  on the button Generate your QR
-After that it brings out a scanner
-Then you can scan any word by typing it in the input space provided...
-it works with the speed of light
+-click  on the button Generate your QR
+-After that it brings out a scanner
+-Then you can scan any word by typing it in the input space provided...
+-It works with the speed of light
 
 #### Built with
 - Semantic HTML5 markup
@@ -13,17 +14,17 @@ it works with the speed of light
 - Flexbox
 - javascript
 - Mobile-first workflow
-- 
 ### What I learned
-This project Enlightened me more on css transistoins
-It is actually My second serious Project That the Javascript accpect is Nice
-I also learn't more on the css code @keyframes
-It also lead me to making alot of desperate researches thereby exposing me to helpful website that i learn't alot
+-This project Enlightened me more on css transistoins
+-It is actually My second serious Project That the Javascript accpect is Nice
+-I also learn't more on the css code @keyframes
+-It also lead me to making alot of desperate researches thereby exposing me to helpful website that i learn't alot
 
 ## Author
-- Website - [ORJI DOMINION EBUBENNIA](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dodosebn)
+- Website - [ORJI DOMINION EBUBENNIA](https://github.com/dodosebn?tab=repositories)
+- Frontend Mentor - [@dodosebn](https://www.frontendmentor.io/profile/dodosebn)
 - Twitter - [@dodosebn](https://www.twitter.com/dodosebn)
+- Email - [@orjidominion32@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 
 ## Acknowledgments
 I want to Appreciate God for his mercies on all aspect of my Life
